@@ -1,4 +1,4 @@
-label_name,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
+label_map,bbox_x,bbox_y,bbox_width,bbox_height,image_name,image_width,image_height
 microplastic,425,563,1330,1485,012.jpg,2464,2056
 microplastic,533,502,983,1554,013.jpg,2464,2056
 microplastic,525,500,1202,1556,014.jpg,2464,2056
